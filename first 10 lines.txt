@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<osm version="0.6" generator="osmconvert 0.7T" timestamp="2015-12-12T00:25:02Z">
+
+	<bounds minlat="50.941" minlon="-1.115" maxlat="51.984" maxlon="0.895"/>
+
+	<node id="19" lat="51.9458753" lon="-0.20698" version="3" timestamp="2012-11-27T12:38:46Z" changeset="14058299" uid="84263" user="Robert Whittaker">
+
+		<tag k="ref" v="SG4 90"/>
+
+		<tag k="amenity" v="post_box"/>
+
+		<tag k="box_type" v="lamp_box"/>
+
+		<tag k="collection_times" v="Mo-Fr 16:30; Sa 09:45"/>
+
+	</node>
+
+	<node id="22" lat="51.938183" lon="-0.268633" version="5" timestamp="2012-06-24T09:33:57Z" changeset="11997445" uid="84263" user="Robert Whittaker">

@@ -1,0 +1,101 @@
+<relation id="58" version="6" timestamp="2015-06-19T19:53:34Z" changeset="32083012" uid="834127" user="kartler175">
+
+		<member type="way" ref="3649462" role="outer"/>
+
+		<member type="way" ref="8128679" role="inner"/>
+
+		<member type="way" ref="8128680" role="inner"/>
+
+		<tag k="name" v="Verulamium Lake"/>
+
+		<tag k="type" v="multipolygon"/>
+
+		<tag k="layer" v="1"/>
+
+		<tag k="natural" v="water"/>
+
+		<tag k="alt_name" v="The Lake"/>
+
+	<relation id="94" version="9" timestamp="2014-06-12T14:47:45Z" changeset="22890397" uid="352985" user="ecatmur">
+
+		<member type="way" ref="3996051" role="outer"/>
+
+		<member type="way" ref="8131236" role="inner"/>
+
+		<member type="way" ref="287708523" role="inner"/>
+
+		<member type="way" ref="287708522" role="inner"/>
+
+		<member type="way" ref="185994677" role="inner"/>
+
+		<tag k="type" v="multipolygon"/>
+
+	<relation id="114" version="18" timestamp="2014-09-16T11:09:02Z" changeset="25476644" uid="38588" user="mentor">
+
+		<member type="way" ref="41017739" role="inner"/>
+
+		<member type="way" ref="41017713" role="outer"/>
+
+		<tag k="name" v="The DX Group"/>
+
+		<tag k="type" v="multipolygon"/>
+
+		<tag k="building" v="yes"/>
+
+	<relation id="152" version="6" timestamp="2012-07-08T21:28:14Z" changeset="12155683" uid="201359" user="wambacher">
+
+		<member type="way" ref="4082762" role="outer"/>
+
+		<member type="way" ref="8134249" role="inner"/>
+
+		<tag k="type" v="multipolygon"/>
+
+	<relation id="332" version="4" timestamp="2010-02-07T13:02:07Z" changeset="3813877" uid="12480" user="tosky">
+
+		<member type="way" ref="4300586" role="outer"/>
+
+		<member type="way" ref="8139270" role="inner"/>
+
+		<tag k="type" v="multipolygon"/>
+
+	<relation id="406" version="5" timestamp="2012-03-23T12:08:37Z" changeset="11073139" uid="346" user="Tom Chance">
+
+		<member type="way" ref="156456311" role="inner"/>
+
+		<member type="way" ref="156456314" role="outer"/>
+
+		<tag k="type" v="multipolygon"/>
+
+		<tag k="natural" v="water"/>
+
+	<relation id="449" version="2" timestamp="2008-03-10T17:34:39Z" changeset="300788" uid="17508" user="robx">
+
+		<member type="way" ref="4377794" role="inner"/>
+
+		<member type="way" ref="8143280" role="outer"/>
+
+		<tag k="type" v="multipolygon"/>
+
+	<relation id="451" version="4" timestamp="2010-06-30T06:49:39Z" changeset="5111137" uid="95293" user="Nightdive">
+
+		<member type="way" ref="4378459" role="outer"/>
+
+		<member type="way" ref="8143294" role="inner"/>
+
+		<tag k="type" v="multipolygon"/>
+
+	<relation id="537" version="6" timestamp="2014-12-06T20:06:09Z" changeset="27298186" uid="2089161" user="Hondarider">
+
+		<member type="way" ref="8144758" role="inner"/>
+
+		<member type="way" ref="47084423" role="outer"/>
+
+		<member type="way" ref="316111744" role="outer"/>
+
+		<tag k="name" v="Boating Pond"/>
+
+		<tag k="type" v="multipolygon"/>
+
+		<tag k="natural" v="water"/>
+
+	<relation id="819" version="8" timestamp="2015-09-01T22:26:54Z" changeset="33740427" uid="424774" user="gerrylet">

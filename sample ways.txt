@@ -1,0 +1,315 @@
+<way id="73" version="14" timestamp="2015-01-11T21:39:09Z" changeset="28074155" uid="1016290" user="Amaroussi">
+
+		<nd ref="195825"/>
+
+		<nd ref="196069"/>
+
+		<tag k="lit" v="yes"/>
+
+		<tag k="ref" v="A598"/>
+
+		<tag k="name" v="Ballards Lane"/>
+
+		<tag k="oneway" v="yes"/>
+
+		<tag k="highway" v="primary"/>
+
+		<tag k="abutters" v="mixed"/>
+
+		<tag k="maxspeed" v="30 mph"/>
+
+	<way id="74" version="8" timestamp="2015-01-11T21:39:09Z" changeset="28074155" uid="1016290" user="Amaroussi">
+
+		<nd ref="196101"/>
+
+		<nd ref="2121445348"/>
+
+		<tag k="lit" v="yes"/>
+
+		<tag k="ref" v="A598"/>
+
+		<tag k="name" v="Ballards Lane"/>
+
+		<tag k="highway" v="primary"/>
+
+		<tag k="abutters" v="retail"/>
+
+		<tag k="maxspeed" v="30 mph"/>
+
+		<tag k="sidewalk" v="right"/>
+
+	<way id="75" version="10" timestamp="2013-01-22T17:06:04Z" changeset="14747780" uid="1016290" user="Amaroussi">
+
+		<nd ref="196055"/>
+
+		<nd ref="1030634587"/>
+
+		<nd ref="196056"/>
+
+		<tag k="lit" v="yes"/>
+
+		<tag k="ref" v="A1000"/>
+
+		<tag k="name" v="High Road"/>
+
+		<tag k="highway" v="primary"/>
+
+		<tag k="abutters" v="retail"/>
+
+		<tag k="maxspeed" v="30 mph"/>
+
+	<way id="79" version="24" timestamp="2014-12-15T09:36:44Z" changeset="27477469" uid="7514" user="Loomyer">
+
+		<nd ref="196108"/>
+
+		<nd ref="574308734"/>
+
+		<nd ref="573668313"/>
+
+		<nd ref="574308735"/>
+
+		<nd ref="34658451"/>
+
+		<nd ref="197674"/>
+
+		<nd ref="573668310"/>
+
+		<nd ref="2118743465"/>
+
+		<nd ref="34654741"/>
+
+		<nd ref="197675"/>
+
+		<nd ref="3235841628"/>
+
+		<nd ref="289941221"/>
+
+		<nd ref="2083954750"/>
+
+		<nd ref="197676"/>
+
+		<nd ref="2117958460"/>
+
+		<nd ref="197677"/>
+
+		<nd ref="2117958574"/>
+
+		<nd ref="618970409"/>
+
+		<nd ref="197678"/>
+
+		<nd ref="2031053475"/>
+
+		<nd ref="2117958482"/>
+
+		<nd ref="197679"/>
+
+		<nd ref="198720"/>
+
+		<nd ref="198721"/>
+
+		<tag k="lit" v="yes"/>
+
+		<tag k="ref" v="A504"/>
+
+		<tag k="name" v="East End Road"/>
+
+		<tag k="highway" v="primary"/>
+
+		<tag k="maxspeed" v="30mph"/>
+
+	<way id="197" version="19" timestamp="2013-05-09T12:52:44Z" changeset="16047409" uid="716353" user="mjmm17">
+
+		<nd ref="282438380"/>
+
+		<nd ref="282438381"/>
+
+		<nd ref="282438652"/>
+
+		<nd ref="2075234829"/>
+
+		<nd ref="282438653"/>
+
+		<nd ref="282438654"/>
+
+		<nd ref="1543293395"/>
+
+		<tag k="lit" v="yes"/>
+
+		<tag k="ref" v="A414"/>
+
+		<tag k="name" v="St. Albans By-Pass"/>
+
+		<tag k="note" v="Reclassification to A414 is delayed and confusing: signage at the Western end was largely been completed by January 2009. But in March 2009 the M10 is still motorway along most of its length, causing great confusion - e.g. http://www.hemeltoday.co.uk/news"/>
+
+		<tag k="lanes" v="2"/>
+
+		<tag k="oneway" v="yes"/>
+
+		<tag k="highway" v="trunk"/>
+
+		<tag k="old_ref" v="M10"/>
+
+		<tag k="maxspeed" v="70 mph"/>
+
+		<tag k="operator" v="Highways Agency"/>
+
+		<tag k="source:maxspeed" v="UK:nsl_dual"/>
+
+		<tag k="highways_agency:area" v="8"/>
+
+	<way id="199" version="24" timestamp="2013-10-11T21:39:22Z" changeset="18305556" uid="508" user="Welshie">
+
+		<nd ref="306303"/>
+
+		<nd ref="282436123"/>
+
+		<nd ref="282438380"/>
+
+		<nd ref="1145369571"/>
+
+		<nd ref="245803"/>
+
+		<nd ref="1145369572"/>
+
+		<nd ref="245804"/>
+
+		<nd ref="282437826"/>
+
+		<nd ref="2416467801"/>
+
+		<nd ref="282437786"/>
+
+		<nd ref="2416467804"/>
+
+		<nd ref="276141"/>
+
+		<nd ref="245801"/>
+
+		<nd ref="2416467794"/>
+
+		<nd ref="1145369573"/>
+
+		<nd ref="282437731"/>
+
+		<nd ref="2416467806"/>
+
+		<nd ref="245802"/>
+
+		<nd ref="282437400"/>
+
+		<nd ref="282438765"/>
+
+		<nd ref="306325"/>
+
+		<nd ref="306304"/>
+
+		<nd ref="276144"/>
+
+		<nd ref="306303"/>
+
+		<tag k="lit" v="yes"/>
+
+		<tag k="name" v="Park Street Roundabout"/>
+
+		<tag k="lanes" v="2"/>
+
+		<tag k="oneway" v="yes"/>
+
+		<tag k="highway" v="trunk"/>
+
+		<tag k="surface" v="asphalt"/>
+
+		<tag k="junction" v="roundabout"/>
+
+		<tag k="maxspeed" v="70 mph"/>
+
+		<tag k="not:name" v="North Orbital Road"/>
+
+		<tag k="source:maxspeed" v="UK:nsl_dual"/>
+
+	<way id="223" version="6" timestamp="2014-01-26T10:18:13Z" changeset="20207236" uid="94" user="nickw">
+
+		<nd ref="2429122138"/>
+
+		<nd ref="2638009595"/>
+
+		<nd ref="2429122178"/>
+
+		<nd ref="2429122216"/>
+
+		<nd ref="2638009598"/>
+
+		<nd ref="1636322711"/>
+
+		<tag k="foot" v="yes"/>
+
+		<tag k="horse" v="no"/>
+
+		<tag k="bicycle" v="no"/>
+
+		<tag k="highway" v="footway"/>
+
+		<tag k="motorcar" v="no"/>
+
+		<tag k="prow_ref" v="FP 1253"/>
+
+		<tag k="designation" v="public_footpath"/>
+
+	<way id="224" version="9" timestamp="2015-03-29T11:30:26Z" changeset="29823885" uid="221923" user="michaelinredhill">
+
+		<nd ref="250991"/>
+
+		<nd ref="2429122233"/>
+
+		<nd ref="1636322847"/>
+
+		<nd ref="2429122137"/>
+
+		<nd ref="2429122165"/>
+
+		<nd ref="32293335"/>
+
+		<nd ref="2429122136"/>
+
+		<nd ref="32293336"/>
+
+		<nd ref="2429122201"/>
+
+		<nd ref="1582391484"/>
+
+		<nd ref="3424603454"/>
+
+		<tag k="highway" v="footway"/>
+
+		<tag k="prow_ref" v="FP 1254"/>
+
+		<tag k="designation" v="public_footpath"/>
+
+		<tag k="source:designation" v="sign at Haslemere Road &#38; on bridge"/>
+
+	<way id="225" version="12" timestamp="2014-01-26T10:18:13Z" changeset="20207236" uid="94" user="nickw">
+
+		<nd ref="1636322929"/>
+
+		<nd ref="1636322839"/>
+
+		<nd ref="2638009587"/>
+
+		<tag k="foot" v="yes"/>
+
+		<tag k="horse" v="no"/>
+
+		<tag k="bicycle" v="no"/>
+
+		<tag k="highway" v="service"/>
+
+		<tag k="motorcar" v="no"/>
+
+		<tag k="prow_ref" v="FP 2005"/>
+
+		<tag k="description" v="This is the main footpath from Fernhurst to Blackdown, it can get quite muddy!"/>
+
+		<tag k="designation" v="public_footpath"/>
+
+	<way id="226" version="8" timestamp="2015-03-29T11:30:29Z" changeset="29823885" uid="221923" user="michaelinredhill">
